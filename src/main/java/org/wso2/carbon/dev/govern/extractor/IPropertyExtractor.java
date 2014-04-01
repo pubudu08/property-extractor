@@ -19,5 +19,6 @@ package org.wso2.carbon.dev.govern.extractor;
 
 public interface IPropertyExtractor {
     public void xmlExtractor();
+    public void propertyfileExtractor();
 
 }
